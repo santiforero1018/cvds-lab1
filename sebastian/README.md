@@ -1,7 +1,7 @@
 # CVDS-LAB1
 
 ### README de juan sebastian cepeda saray
-actualmente estudiante de **ING.sistmas** de la *Escuela colombiana de ingenieria Julio Garavito*\
+Actualmente estudiante de **ING.sistmas** de la *Escuela colombiana de ingenieria Julio Garavito*\
 me encuentro cursando las siguiente materias:
 1. RECO
 2. CVDS

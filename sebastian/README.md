@@ -25,3 +25,4 @@ me encuentro cursando las siguiente materias:
 >> **RECO** -> redes de computadores la cual cuenta con un peso de `4` creditos
 >
 > Lo que significa que actualmente he completado de manera satisfactoria más del 50% de la carrera
+![](principal.png)

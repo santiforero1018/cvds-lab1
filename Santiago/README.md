@@ -30,6 +30,10 @@ Aqui les presento mi plan de estudios:
  
 si quieres saber mas, puedes visitar [la pagina de mi U :)](https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/)
 
-aqui presento la finalización de aprendizaje:
-![](ejercicios principal.JPEG)
+aqui presento la finalización de aprendizaje sobre repositorios de git:
+
+
+![](ejercicios_principal_git.jfif)
+
+![](final_ejercicios_git.jfif)
 

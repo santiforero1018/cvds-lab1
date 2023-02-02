@@ -24,5 +24,14 @@ me encuentro cursando las siguiente materias:
 >
 >> **RECO** -> redes de computadores la cual cuenta con un peso de `4` creditos
 >
-> Lo que significa que actualmente he completado de manera satisfactoria más del 50% de la carrera
-![](principal.png)
+> Lo que significa que actualmente he completado de manera satisfactoria más del 50% de la carrera\
+*si quieres saber un poco mas sobre la universidad* [entra aquí](https://www.escuelaing.edu.co/es/)
+
+# EVIDENCIAS DE GIT LEARNIG
+
+## Parte Principal
+- \
+  ![](principal.jpeg)
+## Parte remota
+- \
+  ![](remoto.jpeg)
